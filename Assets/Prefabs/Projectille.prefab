@@ -13,8 +13,8 @@ GameObject:
   - component: {fileID: 4869151569705514973}
   - component: {fileID: -1911009629235817169}
   - component: {fileID: 1553140123579706037}
-  m_Layer: 0
-  m_Name: CogBullet
+  m_Layer: 9
+  m_Name: Projectille
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
